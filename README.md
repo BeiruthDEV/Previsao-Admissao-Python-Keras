@@ -48,13 +48,13 @@ O sistema também implementa o **desafio opcional**: previsão em lote via arqui
 ---
 
 ## 📂 Estrutura do Projeto
-
+```bash
 📦 PrevisaoAdmissao
 ┣ 📜 prever_admissao.py # Script principal
 ┣ 📜 modelo_treinado.keras # Modelo pré-treinado (fornecido pelo professor)
 ┣ 📜 entrada_teste.csv # CSV de exemplo para previsão em lote
 ┗ 📜 README.md # Este arquivo
-
+```
 ---
 
 ## 🖥️ Como Executar
